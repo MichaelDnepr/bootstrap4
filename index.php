@@ -1,7 +1,7 @@
 <?php
   include "header.php";
 ?>
-
+<h2>My Site</h2>
     <main role="main">
 
       <div id="myCarousel" class="carousel slide" data-ride="carousel">
